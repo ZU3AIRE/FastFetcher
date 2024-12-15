@@ -5,3 +5,8 @@
 /.vs/FastFetcher
 /FastFetcher.API/bin
 /FastFetcher.API/obj
+**/.next
+.vs/**
+**/bin
+**/obj
+**/node_modules
